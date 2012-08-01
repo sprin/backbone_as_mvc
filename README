@@ -1,0 +1,13 @@
+This is an example of application written with the backbone.js
+framework, demonstrating a variant of the MVC pattern.
+This introduces the concept of separating View and Controller with
+backbone.
+
+The application itself simply allows edits of the content of
+any paragraph, and persists the edits in backbone models.
+The edits will be reapplied when the app is reloaded.
+
+TODO:
+ - Create edit form for paragraph content.
+ - Use LocalStorage backend for persistence.
+
